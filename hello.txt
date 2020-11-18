@@ -1,18 +1,4 @@
-<<<<<<< HEAD
 public static void main (strings[] args) {
 system.print.out("hellow world");
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-hello Tim Tran
-=======
-public static void main (strings[] args) {
-system.print.out("hellow world");
-}
->>>>>>> 4938768dce4224fe10f12123de3894120357f2ea
-=======
-hello Tim
->>>>>>> fb3e2e63fbafb0982336740f3b3ea0e1071fb8f9
-=======
-hello.
->>>>>>> 68472024405755131dcb01d16c3ed8595da57440
+hello. Tim
