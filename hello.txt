@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 public static void main (strings[] args) {
 system.print.out("hellow world");
 }
 hello Tim Tran
+=======
+public static void main (strings[] args) {
+system.print.out("hellow world");
+}
+>>>>>>> 4938768dce4224fe10f12123de3894120357f2ea
